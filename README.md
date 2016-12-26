@@ -1,2 +1,4 @@
 # hello-world
-Just follwing Guthub tutorial
+Just following Guthub tutorial
+
+I fixed a typo in the word "following"
